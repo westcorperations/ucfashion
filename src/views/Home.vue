@@ -384,7 +384,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 .home {
   margin-top: 60px;
   height:100%;
